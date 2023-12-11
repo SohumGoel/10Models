@@ -1,4 +1,4 @@
-1# Breast Cancer Classification using 10 Machine Learning Models
+# Breast Cancer Classification using 10 Machine Learning Models
 
 This repository contains code to classify breast cancer tumors into malignant and benign categories using various machine learning algorithms. The code utilizes the Breast Cancer Wisconsin (Diagnostic) dataset available in scikit-learn.
 
