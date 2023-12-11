@@ -25,8 +25,7 @@ The code preprocesses the data by scaling features and splitting it into trainin
 ## Usage
 To use this code:
 1. Clone the repository: `git clone https://github.com/SohumGoel/Predicting-Breast-Cancer.git`
-2. Install necessary dependencies using `pip install -r requirements.txt` (if any).
-3. Execute the Jupyter Notebook `Predict_breast_cancer_with_10_models.ipynb` (in Google Colab if the local env is not set up) to run and experiment with different models.
+2. Execute the Jupyter Notebook `Predict_breast_cancer_with_10_models.ipynb` (in Google Colab if the local env is not set up) to run and experiment with different models.
 
 ## Results
 The evaluation results of each model on the test set are provided in the notebook. The models achieve varying levels of accuracy and performance in distinguishing between malignant and benign tumors.
