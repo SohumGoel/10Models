@@ -28,7 +28,7 @@ To use this code:
 2. Execute the Jupyter Notebook `Predict_breast_cancer_with_10_models.ipynb` (in Google Colab if the local env is not set up) to run and experiment with different models.
 
 ## Results
-The evaluation results of each model on the test set are provided in the notebook. The models achieve varying levels of accuracy and performance in distinguishing between malignant and benign tumors.
+The evaluation results of each model on the test set are provided in the notebook. The models achieve varying levels of accuracy and performance in distinguishing between malignant and benign tumors with 9/10 models having an AUC greater than 0.97
 
 ## Visualizations
 The notebook includes visualizations of ROC curves and Precision-Recall curves for each model to showcase their performance.
